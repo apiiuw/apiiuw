@@ -18,7 +18,7 @@ I am also actively contributing as the Founder and Front-End Developer at PT Nir
 
 ## Contact Me
 If you have any questions, want to collaborate, or just want to chat, feel free to contact me via:
-1. 📧 [Email](mailto:rafirizqallahandilla@gmail.com)
+1. [![Email](https://img.shields.io/badge/Instagram-raffiirz-orange)](mailto:rafirizqallahandilla@gmail.com)
 2. [![LinkedIn](https://img.shields.io/badge/LinkedIn-raffiirz-blue)](https://linkedin.com/in/raffiirz)
 3. [![Instagram](https://img.shields.io/badge/Instagram-raffiirz-orange)](https://instagram.com/raffiirz)
 4. [![Twitter](https://img.shields.io/badge/Twitter-raffirzq-blue)](https://x.com/raffirzq)
