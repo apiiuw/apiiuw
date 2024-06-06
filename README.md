@@ -28,9 +28,4 @@ If you have any questions, want to collaborate, or just want to chat, feel free 
 3. [![Instagram](https://img.shields.io/badge/Instagram-raffiirz-orange)](https://instagram.com/raffiirz)
 4. [![Twitter](https://img.shields.io/badge/Twitter-raffirzq-blue)](https://x.com/raffirzq)
 
-## GitHub Stats
-Here are some statistics about my GitHub activity:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apiiuw&show=reviews&theme=radical)
-
 Thank you for visiting my GitHub profile! 🚀
