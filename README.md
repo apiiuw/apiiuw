@@ -28,4 +28,4 @@ If you have any questions, want to collaborate, or just want to chat, feel free 
 3. [![Instagram](https://img.shields.io/badge/Instagram-raffiirz-orange)](https://instagram.com/raffiirz)
 4. [![Twitter](https://img.shields.io/badge/Twitter-raffirzq-blue)](https://x.com/raffirzq)
 
-Thank you for visiting my GitHub profile! 🚀
+Thank you for visiting Piiuw's GitHub profile! 🚀
