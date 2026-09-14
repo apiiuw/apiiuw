@@ -44,35 +44,18 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="62%" valign="top">
+    <td width="65%" valign="top">
       <p><b>Rafi Rizqallah Andila</b> is a Fullstack Developer specializing in <b>Frontend Architecture</b> and high-performance enterprise dashboards. Currently focused on engineering mission-critical systems and scalable IT infrastructure platforms at <b>PT Swadharma Utama Prima</b>.</p>
       <br/>
-      <table border="0" cellpadding="4" cellspacing="0">
-        <tr>
-          <td valign="top" width="130"><b>Current Role</b></td>
-          <td valign="top">: Fullstack Developer at <b>PT Swadharma Utama Prima</b></td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Prior Experience</b></td>
-          <td valign="top">: Frontend Developer at <b>PT Millenio Amerta Data (AssistX Enterprise)</b></td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Education</b></td>
-          <td valign="top">: <b>UPN Veteran Jakarta</b> — Associate in Information Systems<br/>&nbsp;&nbsp;<b>Universitas Terbuka</b> — Bachelor of Information Systems</td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Certifications</b></td>
-          <td valign="top">: BNSP Junior Web Programmer • freeCodeCamp Legacy Front-End • HackerRank Node.js</td>
-        </tr>
-        <tr>
-          <td valign="top"><b>Interactive Site</b></td>
-          <td valign="top">: <a href="https://www.rafirizqallahandila.xyz/"><b>rafirizqallahandila.xyz</b></a></td>
-        </tr>
-      </table>
+      <p><b>Current Role:</b> Fullstack Developer at <b>PT Swadharma Utama Prima</b></p>
+      <p><b>Prior Experience:</b> Frontend Developer at <b>PT Millenio Amerta Data (AssistX Enterprise)</b></p>
+      <p><b>Education:</b> UPN Veteran Jakarta (Associate) • Universitas Terbuka (Bachelor)</p>
+      <p><b>Certifications:</b> BNSP Junior Web Programmer • freeCodeCamp Legacy Front-End • HackerRank Node.js</p>
+      <p><b>Interactive Site:</b> <a href="https://www.rafirizqallahandila.xyz/"><b>rafirizqallahandila.xyz</b></a></p>
     </td>
-    <td width="38%" align="center" valign="middle">
+    <td width="35%" align="center" valign="middle">
       <a href="https://www.rafirizqallahandila.xyz/">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="Cyberpunk Coding GIF" />
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Cyberpunk Coding GIF" />
       </a>
     </td>
   </tr>
