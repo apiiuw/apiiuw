@@ -1,18 +1,15 @@
 <div align="center">
 
-  <!-- 1. ULTRA PRO ANIMATED CYBER HERO HEADER -->
   <p align="center">
     <img src="./assets/banner.svg" width="100%" alt="Rafi Rizqallah Andila - Hero Banner" />
   </p>
 
-  <!-- 2. ANIMATED PROFESSIONAL DEVELOPER TYPING TAGLINE -->
   <a href="https://www.rafirizqallahandila.xyz/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Scalable+Web+Applications+%26+Interactive+UIs;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Laravel;" alt="Typing Tagline" />
   </a>
 
   <br/>
 
-  <!-- 4. OFFICIAL BADGES & STATS COUNTERS -->
   <p align="center">
     <a href="https://www.rafirizqallahandila.xyz/">
       <img src="https://img.shields.io/badge/🌐_Portfolio-rafirizqallahandila.xyz-581C87?style=for-the-badge&logoColor=white" alt="Portfolio" />
@@ -33,7 +30,6 @@
     <img src="https://img.shields.io/badge/🏢_CURRENT_ROLE-FULLSTACK_DEVELOPER_@_PT_SWADHARMA_UTAMA_PRIMA-0077B6?style=for-the-badge" alt="Current Role PT Swadharma Utama Prima" />
   </p>
 
-  <!-- ANIMATED LASER SCANNER DIVIDER -->
   <img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 
 </div>
@@ -63,7 +59,6 @@
 
 <br/>
 
-<!-- ANIMATED LASER SCANNER DIVIDER -->
 <div align="center">
   <img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 </div>
@@ -111,7 +106,6 @@
 
 <br/>
 
-<!-- ANIMATED LASER SCANNER DIVIDER -->
 <div align="center">
   <img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 </div>
@@ -133,7 +127,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 Centralized Monitoring Dashboard</h3>
-      <p><b>Client/Org:</b> AssistX Enterprise / PT Millenio Amerta Data</p>
+      <p><b>Client/Org:</b> AssistX Enterprise Project (Frontend Developer)</p>
       <p>Mission-critical real-time telemetry and monitoring suite developed for high-volume enterprise operations (including PSSI & BSI Sentrakas dashboards).</p>
       <ul>
         <li><b>Stack:</b> Next.js • React.js • Material UI • Chart.js • Go REST APIs</li>
@@ -144,7 +138,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>👥 MAGENTA (Magang Bertalenta BUMN)</h3>
-      <p><b>Client/Org:</b> AssistX Enterprise Project (Fullstack Developer)</p>
+      <p><b>Client/Org:</b> AssistX Enterprise Project (Frontend Developer Bilingual)</p>
       <p>National talent management & internship recruitment engine connecting participants with state-owned enterprise workflows.</p>
       <ul>
         <li><b>Stack:</b> Laravel • PostgreSQL • RESTful APIs</li>
@@ -165,7 +159,6 @@
 
 <br/>
 
-<!-- ANIMATED LASER SCANNER DIVIDER -->
 <div align="center">
   <img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 </div>
@@ -175,33 +168,25 @@
 ### 📈 Verified Activity & Productivity Metrics
 
 <div align="center">
-  <!-- Top Languages Donut Metric (Verified & Visual) -->
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=apiiuw&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="200" alt="Top Languages Donut Chart" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Continuous Streak Counter (Clean & High Metric) -->
   <img src="https://streak-stats.demolab.com?user=apiiuw&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Live Dynamic Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
 </div>
 
 <br/>
 
-<!-- ANIMATED FOOTER CONTACT SHOWCASE -->
 <div align="center">
   <a href="https://www.rafirizqallahandila.xyz/">
     <img src="https://raw.githubusercontent.com/apiiuw/apiiuw/main/assets/footer-contact.svg?v=1" width="100%" alt="Connect and Collaborate Footer" />
   </a>
 </div>
-
-<!-- Co-authored badge achievement trigger -->
-
-<!-- Co-authored with @fgilye -->
