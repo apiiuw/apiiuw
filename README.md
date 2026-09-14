@@ -26,7 +26,7 @@
     <a href="https://github.com/apiiuw">
       <img src="https://img.shields.io/badge/GitHub-apiiuw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=apiiuw&color=581C87&style=for-the-badge&label=VISITOR+COUNT" alt="Visitor Views" />
+    <img src="https://komarev.com/ghpvc/?username=apiiuw&color=581c87&style=for-the-badge&label=VISITOR+COUNT&v=2" alt="Visitor Views" />
   </p>
 
   <p align="center">
