@@ -15,10 +15,10 @@
   <!-- 4. OFFICIAL BADGES & STATS COUNTERS -->
   <p align="center">
     <a href="https://www.rafirizqallahandila.xyz/">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-rafirizqallahandila.xyz-00E5FF?style=for-the-badge&logoColor=black" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_Portfolio-rafirizqallahandila.xyz-581C87?style=for-the-badge&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/raffiirz">
-      <img src="https://img.shields.io/badge/LinkedIn-Rafi_Rizqallah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Rafi_Rizqallah_Andila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://gitlab.com/apiiuw">
       <img src="https://img.shields.io/badge/GitLab-apiiuw-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
@@ -26,7 +26,7 @@
     <a href="https://github.com/apiiuw">
       <img src="https://img.shields.io/badge/GitHub-apiiuw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=apiiuw&color=00E5FF&style=for-the-badge&label=VISITOR+COUNT" alt="Visitor Views" />
+    <img src="https://komarev.com/ghpvc/?username=apiiuw&color=581C87&style=for-the-badge&label=VISITOR+COUNT" alt="Visitor Views" />
   </p>
 
   <p align="center">
@@ -52,7 +52,7 @@
         <li>🏢 <b>Previous:</b> Frontend Developer @ <b>PT Millenio Amerta Data (AssistX Enterprise)</b></li>
         <li>🎓 <b>Education:</b>
           <ul>
-            <li><b>Universitas Pembangunan Nasional Veteran Jakarta</b> — Associate in Information Systems (GPA: <b>3.89 / 4.00</b>)</li>
+            <li><b>Universitas Pembangunan Nasional Veteran Jakarta</b> — Associate in Information Systems</li>
             <li><b>Universitas Terbuka</b> — Bachelor of Information Systems</li>
           </ul>
         </li>
