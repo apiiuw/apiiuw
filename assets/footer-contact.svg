@@ -106,7 +106,6 @@
 
   <!-- Bottom Terminal Tag -->
   <g transform="translate(600, 215)" text-anchor="middle">
-    <circle cx="-170" cy="-3.5" r="4" fill="#00FF66" class="radar-dot" />
     <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#64748B" letter-spacing="1.5">
       BASED IN JAKARTA, ID // PT SWADHARMA UTAMA PRIMA
     </text>
