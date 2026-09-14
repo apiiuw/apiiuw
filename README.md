@@ -201,3 +201,5 @@
     <img src="https://raw.githubusercontent.com/apiiuw/apiiuw/main/assets/footer-contact.svg?v=1" width="100%" alt="Connect and Collaborate Footer" />
   </a>
 </div>
+
+<!-- Co-authored badge achievement trigger -->
