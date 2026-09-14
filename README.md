@@ -1,19 +1,14 @@
 <div align="center">
 
-  <!-- Dynamic Banner Top Wave Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,31&height=180&section=header&text=Rafi%20Rizqallah%20Andila&fontSize=42&fontAlignY=38&animation=twinkling&desc=Fullstack%20Developer%20%E2%80%A2%20Frontend%20Specialist&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,31&height=210&section=header&text=Rafi%20Rizqallah%20Andila&fontSize=42&fontAlignY=38&animation=twinkling&desc=Fullstack%20Developer%20%7C%20PT%20Swadharma%20Utama%20Prima&descAlignY=62&descSize=19" width="100%" alt="Header Banner" />
 
-  <!-- Multi-line Dynamic Typing Animation -->
   <a href="https://www.rafirizqallahandila.xyz/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=850&height=120&lines=👋+Hello+World!+I'm+Rafi+Rizqallah+Andila+(apiiuw);💻+Fullstack+Developer+at+PT+Swadharma+Utama+Prima;🎨+Passionate+about+Frontend+Architecture+%26+Smooth+Micro-Interactions;🚀+Turning+Complex+Logic+into+Intuitive,+High-Performance+Web+Apps" alt="Animated Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=860&height=125&lines=👋+Hello+World!+I'm+Rafi+Rizqallah+Andila+(apiiuw);💻+Fullstack+Developer+at+PT+Swadharma+Utama+Prima;🎨+Crafting+Responsive,+Smooth+%26+Interactive+Web+Applications;🚀+Engineering+Scalable+Fullstack+Systems+with+Pixel-Perfect+UIs" alt="Animated Typing SVG" />
   </a>
 
-  <br/>
-
-  <!-- Quick Links & Contact Badges -->
   <p align="center">
     <a href="https://www.rafirizqallahandila.xyz/">
-      <img src="https://img.shields.io/badge/🌐_Website-Portfolio_Live-00C7FF?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
+      <img src="https://img.shields.io/badge/🌐_Website-rafirizqallahandila.xyz-00E5FF?style=for-the-badge&logoColor=black" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/raffirz">
       <img src="https://img.shields.io/badge/LinkedIn-Rafi_Rizqallah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,159 +16,170 @@
     <a href="https://instagram.com/raffirz">
       <img src="https://img.shields.io/badge/Instagram-@raffirz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://twitter.com/raffirzq">
-      <img src="https://img.shields.io/badge/Twitter/X-@raffirzq-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=apiiuw&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
-  <!-- Role Status Pill -->
   <p align="center">
-    <img src="https://img.shields.io/badge/🏢_Current_Role-Fullstack_Developer_@_PT_Swadharma_Utama_Prima-10B981?style=for-the-badge" alt="Current Position" />
+    <img src="https://img.shields.io/badge/🏢_Current_Company-PT_Swadharma_Utama_Prima-0077B6?style=for-the-badge" alt="PT Swadharma Utama Prima" />
   </p>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" height="4" alt="Animated Divider" />
 
 </div>
 
----
+<br/>
 
-### ⚡ Overview & Engineering Philosophy
+### ⚡ About Me & Engineering Focus
 
 <table border="0">
   <tr>
-    <td width="65%" valign="top">
-      <p>👋 <b>Hi, I'm Rafi Rizqallah Andila</b>, a Fullstack Developer with deep emphasis and passion for <b>Frontend Engineering</b>.</p>
-      <p>Currently, I engineer and maintain robust web systems at <b>PT Swadharma Utama Prima</b>, bridging elegant, responsive UI design systems with reliable backend architectures.</p>
+    <td width="64%" valign="top">
+      <p>👋 <b>Welcome!</b> I am a Fullstack Developer with an intensive focus on <b>Frontend Architecture</b> and interactive experiences.</p>
+      <p>I build and maintain enterprise-grade web applications at <b>PT Swadharma Utama Prima</b>, marrying intuitive user interfaces with scalable backend microservices.</p>
       <ul>
-        <li>💼 <b>Current:</b> Fullstack Developer at <b>PT Swadharma Utama Prima</b></li>
+        <li>💼 <b>Fullstack Developer:</b> <a href="https://www.rafirizqallahandila.xyz/">PT Swadharma Utama Prima</a></li>
         <li>🏛️ <b>Co-Founder & Frontend Dev:</b> PT Nirmala Teknologi Indonesia</li>
-        <li>🎯 <b>Frontend Focus:</b> Micro-interactions, component architecture, state management, and 60fps UX performance</li>
-        <li>🛠️ <b>Fullstack Scope:</b> RESTful / GraphQL APIs, scalable database models, authentication & RBAC flows</li>
-        <li>🌐 <b>Portfolio:</b> <a href="https://www.rafirizqallahandila.xyz/">www.rafirizqallahandila.xyz</a></li>
+        <li>🎯 <b>Frontend Craft:</b> Component reusability, responsive design systems, micro-interactions & fluid animations</li>
+        <li>⚙️ <b>Backend Craft:</b> RESTful / GraphQL APIs, RBAC architecture, database modeling & query optimizations</li>
+        <li>🌐 <b>Live Portfolio:</b> <a href="https://www.rafirizqallahandila.xyz/"><b>www.rafirizqallahandila.xyz</b></a></li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://images.weserv.nl/?url=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif&w=320&default=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF" />
+    <td width="36%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="290" alt="Animated Developer Working" />
     </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
-### 🕹️ Tech Stack & Digital Toolkit
+### 🛠️ Core Tech Stack & Tools
 
 <div align="center">
 
-  <!-- Core Frontend -->
-  <p><b>⚡ Frontend & UI Engineering</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,sass,figma&perline=10" alt="Frontend Stack" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Backend & Data -->
-  <p><b>⚙️ Backend, APIs & Databases</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,mysql,postgres,mongodb,firebase,supabase&perline=10" alt="Backend Stack" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Mobile & Infrastructure -->
-  <p><b>📱 Mobile & DevOps Tools</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,git,github,docker,postman,vscode,linux&perline=10" alt="Mobile and DevOps Stack" />
-  </a>
+  <table border="0">
+    <tr>
+      <td align="center" width="25%">
+        <b>⚡ Frontend Core</b><br/><br/>
+        <img src="https://cdn.simpleicons.org/react/61DAFB" width="34" height="34" alt="React" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/nextdotjs/white" width="34" height="34" alt="Next.js" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="34" height="34" alt="TypeScript" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="34" height="34" alt="Tailwind CSS" />
+      </td>
+      <td align="center" width="25%">
+        <b>⚙️ Backend & API</b><br/><br/>
+        <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="34" height="34" alt="Node.js" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="34" height="34" alt="Laravel" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/express/white" width="34" height="34" alt="Express" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="34" height="34" alt="NestJS" />
+      </td>
+      <td align="center" width="25%">
+        <b>🗄️ Database & Cloud</b><br/><br/>
+        <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="34" height="34" alt="PostgreSQL" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/mysql/4479A1" width="34" height="34" alt="MySQL" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="34" height="34" alt="Firebase" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="34" height="34" alt="Supabase" />
+      </td>
+      <td align="center" width="25%">
+        <b>📱 Mobile & DevOps</b><br/><br/>
+        <img src="https://cdn.simpleicons.org/flutter/02569B" width="34" height="34" alt="Flutter" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/docker/2496ED" width="34" height="34" alt="Docker" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/git/F05032" width="34" height="34" alt="Git" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/figma/F24E1E" width="34" height="34" alt="Figma" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
----
+<br/>
 
-### 📂 Featured Projects & Repositories
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" height="4" alt="Animated Divider" />
+</div>
+
+<br/>
+
+### 📂 Featured Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤝 Smart Rescuer</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=vue,nodejs,firebase,tailwind" alt="Smart Rescuer Tech" />
-      </p>
-      <p>Crowdfunding and volunteer deployment platform built to empower remote educational outreach and distribute necessary supplies to communities in need.</p>
+      <h3>🤝 Smart Rescuer</h3>
+      <p>Crowdfunding and volunteer coordination web platform created to bridge resources and educational support to remote communities and disaster-impacted areas.</p>
       <ul>
-        <li>Real-time campaign progress and donation logging</li>
-        <li>Interactive volunteer management interface</li>
+        <li><b>Stack:</b> Vue.js • Node.js • Firebase • Tailwind CSS</li>
+        <li><b>Core:</b> Real-time donation ledgers, campaign tracker, and volunteer management.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📰 Nirmala News</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" alt="Nirmala News Tech" />
-      </p>
-      <p>Fast, streamlined Wikipedia reader leveraging REST endpoints with client-side indexing, live search filter optimizations, and distraction-free typography.</p>
+      <h3>📰 Nirmala News</h3>
+      <p>Ultra-responsive search exploration system querying Wikipedia REST interfaces, fine-tuned for high-speed browsing and readable typography.</p>
       <ul>
-        <li>Ultra-fast page transitions and cache prefetching</li>
-        <li>Fluid responsive layout built for reading ergonomics</li>
+        <li><b>Stack:</b> React • Next.js • TypeScript • Tailwind CSS</li>
+        <li><b>Core:</b> Instant response caching, deep-linking, distraction-free reading mode.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📍 Journey Destination</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=androidstudio,java,firebase" alt="Journey Destination Tech" />
-      </p>
-      <p>Native Android application designed for travelers to pin itineraries and share locations with seamless cloud synchronization via Firebase.</p>
+      <h3>📍 Journey Destination</h3>
+      <p>Android mobile application for traveler itineraries, bookmarking geographical points of interest with real-time cloud data synchronization.</p>
       <ul>
-        <li>Real-time sync with Firebase Realtime Database</li>
-        <li>Cloud storage for user media and offline persistence</li>
+        <li><b>Stack:</b> Java • Android Native • Firebase Realtime DB</li>
+        <li><b>Core:</b> Offline-first persistence, reactive media sync, location bookmarking.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 Enterprise Internal Systems</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,laravel,postgres,docker" alt="Enterprise Stack" />
-      </p>
-      <p>Enterprise fullstack solutions engineered at <b>PT Swadharma Utama Prima</b> & <b>PT Nirmala Teknologi Indonesia</b>, built around security, data integrity, and strict business rules.</p>
+      <h3>🏢 Enterprise Internal Systems</h3>
+      <p>Confidential enterprise management dashboards and data pipelines engineered for <b>PT Swadharma Utama Prima</b> & <b>PT Nirmala Teknologi Indonesia</b>.</p>
       <ul>
-        <li>Multi-level RBAC and authenticated dashboards</li>
-        <li>Optimized queries and high-throughput data processing</li>
+        <li><b>Stack:</b> Next.js • TypeScript • Laravel • PostgreSQL • Docker</li>
+        <li><b>Core:</b> Granular RBAC permissions, high-concurrency API integrations, data compliance.</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
-
-### 📊 Live Activity & Code Metrics
+<br/>
 
 <div align="center">
-  <!-- GitHub Readme Stats Cards with Glowing Theme -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=apiiuw&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=94A3B8" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apiiuw&layout=compact&theme=algolia&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00E5FF&text_color=94A3B8" height="175" alt="Top Languages" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" height="4" alt="Animated Divider" />
 </div>
 
+<br/>
+
+### 📊 Real-Time GitHub Analytics & Activity
+
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=apiiuw&theme=algolia&hide_border=true&background=0D1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF" alt="GitHub Streak Stats" />
+
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=apiiuw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=apiiuw&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
 </div>
 
-<!-- Dynamic Animated Snake Contribution Game -->
+<br/>
+
 <div align="center">
-  <p><b>👾 Contribution Journey</b></p>
-  <img src="https://raw.githubusercontent.com/apiiuw/apiiuw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=apiiuw&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </div>
 
----
+<br/>
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
+</div>
 
-  <!-- Animated Bottom Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,31&height=120&section=footer" width="100%" alt="Footer Wave" />
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,31&height=130&section=footer" width="100%" alt="Footer Wave" />
 
   <p>
-    <b>Connect with me:</b> <a href="https://www.rafirizqallahandila.xyz/">rafirizqallahandila.xyz</a> •
+    ⚡ <b>Connect:</b> <a href="https://www.rafirizqallahandila.xyz/">rafirizqallahandila.xyz</a> •
     <a href="https://linkedin.com/in/raffirz">LinkedIn</a> •
     <a href="mailto:rafirizqallah@gmail.com">rafirizqallah@gmail.com</a>
   </p>
-  <sub>Designed with precision & engineered for performance by <b>Rafi Rizqallah Andila</b></sub>
-
+  <sub>Engineered with passion & precision by <b>Rafi Rizqallah Andila</b></sub>
 </div>
