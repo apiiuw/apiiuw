@@ -7,7 +7,7 @@
 
   <!-- 2. ANIMATED PROFESSIONAL DEVELOPER TYPING TAGLINE -->
   <a href="https://www.rafirizqallahandila.xyz/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Scalable+Web+Applications+%26+Interactive+UIs;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Laravel;Crafting+Modern+Enterprise+Systems+at+PT+Swadharma+Utama+Prima" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Scalable+Web+Applications+%26+Interactive+UIs;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Laravel;" alt="Typing Tagline" />
   </a>
 
   <br/>
