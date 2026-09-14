@@ -45,20 +45,30 @@
 <table border="0" width="100%">
   <tr>
     <td width="62%" valign="top">
-      <p>👋 <b>Rafi Rizqallah Andila</b> is an experienced <b>Fullstack Developer</b> with a deep specialization in <b>Frontend Architecture</b> and enterprise dashboard engineering.</p>
-      <p>Currently engineering mission-critical web platforms and IT asset management ecosystems at <b>PT Swadharma Utama Prima</b>.</p>
-      <ul>
-        <li>💼 <b>Current:</b> Fullstack Developer @ <b>PT Swadharma Utama Prima</b></li>
-        <li>🏢 <b>Previous:</b> Frontend Developer @ <b>PT Millenio Amerta Data (AssistX Enterprise)</b></li>
-        <li>🎓 <b>Education:</b>
-          <ul>
-            <li><b>Universitas Pembangunan Nasional Veteran Jakarta</b> — Associate in Information Systems</li>
-            <li><b>Universitas Terbuka</b> — Bachelor of Information Systems</li>
-          </ul>
-        </li>
-        <li>🏆 <b>Certifications:</b> Junior Web Programmer (<b>BNSP</b>) • Legacy Front-End (<b>freeCodeCamp</b>) • Node.js Intermediate (<b>HackerRank</b>)</li>
-        <li>🌐 <b>Portfolio:</b> <a href="https://www.rafirizqallahandila.xyz/"><b>www.rafirizqallahandila.xyz</b></a></li>
-      </ul>
+      <p><b>Rafi Rizqallah Andila</b> is a Fullstack Developer specializing in <b>Frontend Architecture</b> and high-performance enterprise dashboards. Currently focused on engineering mission-critical systems and scalable IT infrastructure platforms at <b>PT Swadharma Utama Prima</b>.</p>
+      <br/>
+      <table border="0" cellpadding="4" cellspacing="0">
+        <tr>
+          <td valign="top" width="130"><b>Current Role</b></td>
+          <td valign="top">: Fullstack Developer at <b>PT Swadharma Utama Prima</b></td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Prior Experience</b></td>
+          <td valign="top">: Frontend Developer at <b>PT Millenio Amerta Data (AssistX Enterprise)</b></td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Education</b></td>
+          <td valign="top">: <b>UPN Veteran Jakarta</b> — Associate in Information Systems<br/>&nbsp;&nbsp;<b>Universitas Terbuka</b> — Bachelor of Information Systems</td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Certifications</b></td>
+          <td valign="top">: BNSP Junior Web Programmer • freeCodeCamp Legacy Front-End • HackerRank Node.js</td>
+        </tr>
+        <tr>
+          <td valign="top"><b>Interactive Site</b></td>
+          <td valign="top">: <a href="https://www.rafirizqallahandila.xyz/"><b>rafirizqallahandila.xyz</b></a></td>
+        </tr>
+      </table>
     </td>
     <td width="38%" align="center" valign="middle">
       <a href="https://www.rafirizqallahandila.xyz/">
