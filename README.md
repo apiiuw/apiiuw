@@ -2,7 +2,7 @@
 
   <!-- 1. ULTRA PRO ANIMATED CYBER HERO HEADER -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/apiiuw/apiiuw/main/assets/hero-header.svg?v=3" width="100%" alt="Rafi Rizqallah Andila - Hero Banner" />
+    <img src="./assets/banner.svg" width="100%" alt="Rafi Rizqallah Andila - Hero Banner" />
   </p>
 
   <!-- 2. ANIMATED PROFESSIONAL DEVELOPER TYPING TAGLINE -->
