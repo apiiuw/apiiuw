@@ -1,0 +1,208 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="340">
+  <defs>
+    <!-- Deep Space Cyber Gradient Background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="40%" stop-color="#0B132B" />
+      <stop offset="80%" stop-color="#0A1128" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+
+    <!-- Glowing Cyber Grid Pattern -->
+    <pattern id="cyberGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.8" opacity="0.45" />
+      <circle cx="40" cy="40" r="1" fill="#00E5FF" opacity="0.3" />
+    </pattern>
+
+    <!-- Neon Text Glow Gradient -->
+    <linearGradient id="neonTextGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" />
+      <stop offset="35%" stop-color="#7000FF" />
+      <stop offset="70%" stop-color="#FF007F" />
+      <stop offset="100%" stop-color="#00E5FF" />
+      <animate attributeName="x1" from="0%" to="100%" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="100%" to="200%" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <!-- Laser Line Gradient -->
+    <linearGradient id="laserBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="1" />
+      <stop offset="100%" stop-color="#FF007F" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Glow Filters -->
+    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur1" />
+      <feGaussianBlur stdDeviation="10" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="ufoGlowStrong" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#00E5FF" flood-opacity="0.9"/>
+    </filter>
+
+    <linearGradient id="tractorBeam" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.0" />
+    </linearGradient>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700;800&amp;family=Outfit:wght@800;900&amp;display=swap');
+
+      /* Twinkling Stars */
+      .star { animation: starPulse 2s infinite ease-in-out alternate; }
+      .star-delay-1 { animation-delay: 0.4s; }
+      .star-delay-2 { animation-delay: 0.9s; }
+      .star-delay-3 { animation-delay: 1.5s; }
+      @keyframes starPulse {
+        0% { opacity: 0.2; transform: scale(0.6); }
+        100% { opacity: 1; transform: scale(1.4); }
+      }
+
+      /* UFO Smooth Flight Animation */
+      .ufo-cruiser {
+        animation: ufoCruise 14s infinite linear;
+      }
+      @keyframes ufoCruise {
+        0% {
+          transform: translate(-150px, 60px) rotate(6deg);
+        }
+        25% {
+          transform: translate(320px, 30px) rotate(-8deg);
+        }
+        50% {
+          transform: translate(650px, 85px) rotate(8deg);
+        }
+        75% {
+          transform: translate(960px, 40px) rotate(-5deg);
+        }
+        100% {
+          transform: translate(1350px, 65px) rotate(6deg);
+        }
+      }
+
+      /* Tractor Beam Pulse */
+      .tractor-beam-pulse {
+        animation: tractorPulse 2s infinite alternate ease-in-out;
+      }
+      @keyframes tractorPulse {
+        0% { opacity: 0.3; transform: scaleX(0.8); }
+        100% { opacity: 0.9; transform: scaleX(1.2); }
+      }
+
+      /* Cyber Scanner Ray */
+      .scanner-beam {
+        animation: scanAcross 4s infinite linear;
+      }
+      @keyframes scanAcross {
+        0% { transform: translateX(-500px); }
+        100% { transform: translateX(1300px); }
+      }
+
+      /* Status Indicator Pulse */
+      .status-pulse {
+        animation: livePulse 1.6s infinite ease-in-out;
+      }
+      @keyframes livePulse {
+        0% { r: 5; opacity: 1; }
+        50% { r: 8; opacity: 0.4; }
+        100% { r: 5; opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- Cyberpunk Canvas Base -->
+  <rect width="1200" height="340" rx="16" fill="url(#bgGrad)" stroke="#1F293D" stroke-width="2" />
+  <rect width="1200" height="340" rx="16" fill="url(#cyberGrid)" />
+
+  <!-- Twinkling Constellations -->
+  <g fill="#FFFFFF">
+    <circle cx="80" cy="50" r="1.5" class="star" />
+    <circle cx="160" cy="110" r="2.2" class="star star-delay-1" fill="#00E5FF" />
+    <circle cx="280" cy="40" r="1.8" class="star star-delay-2" />
+    <circle cx="420" cy="95" r="1.4" class="star star-delay-3" />
+    <circle cx="780" cy="45" r="2.0" class="star star-delay-1" fill="#FF007F" />
+    <circle cx="890" cy="120" r="1.5" class="star star-delay-2" />
+    <circle cx="1020" cy="60" r="2.2" class="star star-delay-3" fill="#00E5FF" />
+    <circle cx="1130" cy="110" r="1.8" class="star" />
+  </g>
+
+  <!-- Ambient Glow Orbs -->
+  <circle cx="200" cy="170" r="120" fill="#00E5FF" opacity="0.08" filter="url(#neonGlow)" />
+  <circle cx="1000" cy="170" r="140" fill="#7000FF" opacity="0.09" filter="url(#neonGlow)" />
+
+  <!-- FLYING CYBER UFO WITH TRACTOR BEAM -->
+  <g class="ufo-cruiser" filter="url(#ufoGlowStrong)">
+    <!-- Animated Light Cone -->
+    <g class="tractor-beam-pulse">
+      <polygon points="-8,6 8,6 28,75 -28,75" fill="url(#tractorBeam)" />
+    </g>
+
+    <!-- Glass Cockpit Dome -->
+    <ellipse cx="0" cy="-6" rx="16" ry="13" fill="#00E5FF" opacity="0.95" />
+    <ellipse cx="-4" cy="-8" rx="6" ry="3.5" fill="#FFFFFF" opacity="0.8" />
+    <!-- Pilot Hologram Silhouette -->
+    <circle cx="0" cy="-5" r="4.5" fill="#030712" />
+
+    <!-- Sleek Saucer Chassis -->
+    <ellipse cx="0" cy="3" rx="42" ry="11" fill="#0F172A" stroke="#00E5FF" stroke-width="2.2" />
+
+    <!-- Rotating Cyber Thrusters -->
+    <circle cx="-28" cy="5" r="2.6" fill="#FF007F" />
+    <circle cx="-14" cy="7" r="2.6" fill="#00FF66" />
+    <circle cx="0" cy="8" r="3.2" fill="#00E5FF" />
+    <circle cx="14" cy="7" r="2.6" fill="#00FF66" />
+    <circle cx="28" cy="5" r="2.6" fill="#FF007F" />
+  </g>
+
+  <!-- Top System Badge Bar -->
+  <g transform="translate(600, 70)" text-anchor="middle">
+    <!-- Outer Pill Box -->
+    <rect x="-190" y="-18" width="380" height="34" rx="17" fill="#0D1527" stroke="#1E293B" stroke-width="1.5" />
+    
+    <!-- Live Glowing Radar Dot -->
+    <circle cx="-160" cy="-1" r="5" fill="#00FF66" class="status-pulse" />
+    <circle cx="-160" cy="-1" r="5" fill="#00FF66" />
+    
+    <text x="10" y="5" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#94A3B8" letter-spacing="2.5">
+      SYSTEM STATUS : <tspan fill="#00FF66">ONLINE &amp; ACTIVE</tspan>
+    </text>
+  </g>
+
+  <!-- MAIN PRO TYPOGRAPHY HERO -->
+  <g transform="translate(600, 160)" text-anchor="middle">
+    <!-- Subtle Drop Glow Shadow for Text -->
+    <text x="0" y="0" font-family="'Outfit', 'Inter', -apple-system, sans-serif" font-size="52" font-weight="900" fill="#00E5FF" opacity="0.3" filter="url(#neonGlow)" letter-spacing="4">
+      RAFI RIZQALLAH ANDILA
+    </text>
+    <!-- Crisp Foreground Text with Moving Gradient -->
+    <text x="0" y="0" font-family="'Outfit', 'Inter', -apple-system, sans-serif" font-size="52" font-weight="900" fill="url(#neonTextGrad)" letter-spacing="4">
+      RAFI RIZQALLAH ANDILA
+    </text>
+  </g>
+
+  <!-- ROLE & COMPANY SUBTITLE -->
+  <g transform="translate(600, 215)" text-anchor="middle">
+    <text x="0" y="0" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="17" font-weight="700" fill="#F8FAFC" letter-spacing="3.5">
+      FULLSTACK DEVELOPER <tspan fill="#00E5FF">⚡</tspan> FRONTEND ARCHITECT
+    </text>
+    <text x="0" y="30" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15" font-weight="600" fill="#38BDF8" letter-spacing="2">
+      PT SWADHARMA UTAMA PRIMA
+    </text>
+  </g>
+
+  <!-- HIGH-TECH DYNAMIC SCANNER LINE AT BOTTOM -->
+  <g transform="translate(0, 310)">
+    <!-- Base Track -->
+    <line x1="40" y1="0" x2="1160" y2="0" stroke="#1E293B" stroke-width="2" />
+    <!-- Traveling High-Speed Neon Laser Beam -->
+    <g class="scanner-beam" filter="url(#neonGlow)">
+      <rect x="0" y="-2" width="380" height="4" rx="2" fill="url(#laserBeam)" />
+    </g>
+  </g>
+</svg>

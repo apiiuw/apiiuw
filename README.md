@@ -1,11 +1,8 @@
 <div align="center">
 
-  <!-- 1. CYBERPUNK GRADIENT HEADER WITH TWINKLING WAVE ANIMATION -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,6&height=220&section=header&text=%E2%9A%A1%20RAFI%20RIZQALLAH%20ANDILA%20%E2%9A%A1&fontSize=38&fontAlignY=38&animation=twinkling&desc=%F0%9F%9A%80%20FULLSTACK%20DEVELOPER%20%E2%80%A2%20FRONTEND%20SPECIALIST%20%7C%20PT%20SWADHARMA%20UTAMA%20PRIMA&descAlignY=62&descSize=16" width="100%" alt="Cyberpunk Header Banner" />
-
-  <!-- 2. ANIMATED COSMIC UFO FLIGHT BACKGROUND & TRANSMISSION -->
+  <!-- 1. ULTRA PRO ANIMATED CYBER HERO HEADER -->
   <p align="center">
-    <img src="./assets/cosmic-ufo.svg" width="100%" alt="Cosmic UFO Flight Animation" />
+    <img src="./assets/hero-header.svg" width="100%" alt="Rafi Rizqallah Andila - Hero Banner" />
   </p>
 
   <!-- 3. ANIMATED TERMINAL TYPING SVG -->
