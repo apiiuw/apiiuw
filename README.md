@@ -1,92 +1,118 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,31&height=210&section=header&text=Rafi%20Rizqallah%20Andila&fontSize=42&fontAlignY=38&animation=twinkling&desc=Fullstack%20Developer%20%7C%20PT%20Swadharma%20Utama%20Prima&descAlignY=62&descSize=19" width="100%" alt="Header Banner" />
+  <!-- 1. CYBERPUNK GRADIENT HEADER WITH TWINKLING WAVE ANIMATION -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,6&height=220&section=header&text=%E2%9A%A1%20RAFI%20RIZQALLAH%20ANDILA%20%E2%9A%A1&fontSize=38&fontAlignY=38&animation=twinkling&desc=%F0%9F%9A%80%20FULLSTACK%20DEVELOPER%20%E2%80%A2%20FRONTEND%20SPECIALIST%20%7C%20PT%20SWADHARMA%20UTAMA%20PRIMA&descAlignY=62&descSize=16" width="100%" alt="Cyberpunk Header Banner" />
 
+  <!-- 2. ANIMATED COSMIC UFO FLIGHT BACKGROUND & TRANSMISSION -->
+  <p align="center">
+    <img src="./assets/cosmic-ufo.svg" width="100%" alt="Cosmic UFO Flight Animation" />
+  </p>
+
+  <!-- 3. ANIMATED TERMINAL TYPING SVG -->
   <a href="https://www.rafirizqallahandila.xyz/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=860&height=125&lines=👋+Hello+World!+I'm+Rafi+Rizqallah+Andila+(apiiuw);💻+Fullstack+Developer+at+PT+Swadharma+Utama+Prima;🎨+Crafting+Responsive,+Smooth+%26+Interactive+Web+Applications;🚀+Engineering+Scalable+Fullstack+Systems+with+Pixel-Perfect+UIs" alt="Animated Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&width=860&height=120&lines=%3E_System.init(%22Rafi+Rizqallah+Andila%22)+//+@apiiuw;%3E_Fullstack+Developer+at+PT+Swadharma+Utama+Prima;%3E_Crafting+Enterprise+Dashboards+%26+High-Performance+Web+Apps;%3E_Architecting+Modern+Frontends+with+Next.js,+TypeScript+%26+React" alt="Terminal Typing Animation" />
   </a>
 
+  <br/>
+
+  <!-- 4. OFFICIAL BADGES & STATS COUNTERS -->
   <p align="center">
     <a href="https://www.rafirizqallahandila.xyz/">
-      <img src="https://img.shields.io/badge/🌐_Website-rafirizqallahandila.xyz-00E5FF?style=for-the-badge&logoColor=black" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_Portfolio-rafirizqallahandila.xyz-00E5FF?style=for-the-badge&logoColor=black" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/raffirz">
+    <a href="https://linkedin.com/in/raffiirz">
       <img src="https://img.shields.io/badge/LinkedIn-Rafi_Rizqallah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/raffirz">
-      <img src="https://img.shields.io/badge/Instagram-@raffirz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <a href="https://gitlab.com/apiiuw">
+      <img src="https://img.shields.io/badge/GitLab-apiiuw-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=apiiuw&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://github.com/apiiuw">
+      <img src="https://img.shields.io/badge/GitHub-apiiuw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=apiiuw&color=00E5FF&style=for-the-badge&label=VISITOR+COUNT" alt="Visitor Views" />
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/🏢_Current_Company-PT_Swadharma_Utama_Prima-0077B6?style=for-the-badge" alt="PT Swadharma Utama Prima" />
+    <img src="https://img.shields.io/badge/🏢_CURRENT_ROLE-FULLSTACK_DEVELOPER_@_PT_SWADHARMA_UTAMA_PRIMA-0077B6?style=for-the-badge" alt="Current Role PT Swadharma Utama Prima" />
   </p>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" height="4" alt="Animated Divider" />
+
+  <!-- ANIMATED LASER SCANNER DIVIDER -->
+  <img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 
 </div>
 
 <br/>
 
-### ⚡ About Me & Engineering Focus
+### 🛰️ Engineering Profile & Professional Background
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="64%" valign="top">
-      <p>👋 <b>Welcome!</b> I am a Fullstack Developer with an intensive focus on <b>Frontend Architecture</b> and interactive experiences.</p>
-      <p>I build and maintain enterprise-grade web applications at <b>PT Swadharma Utama Prima</b>, marrying intuitive user interfaces with scalable backend microservices.</p>
+    <td width="62%" valign="top">
+      <p>👋 <b>Rafi Rizqallah Andila</b> is an experienced <b>Fullstack Developer</b> with a deep specialization in <b>Frontend Architecture</b> and enterprise dashboard engineering.</p>
+      <p>Currently engineering mission-critical web platforms and IT asset management ecosystems at <b>PT Swadharma Utama Prima</b>.</p>
       <ul>
-        <li>💼 <b>Fullstack Developer:</b> <a href="https://www.rafirizqallahandila.xyz/">PT Swadharma Utama Prima</a></li>
-        <li>🏛️ <b>Co-Founder & Frontend Dev:</b> PT Nirmala Teknologi Indonesia</li>
-        <li>🎯 <b>Frontend Craft:</b> Component reusability, responsive design systems, micro-interactions & fluid animations</li>
-        <li>⚙️ <b>Backend Craft:</b> RESTful / GraphQL APIs, RBAC architecture, database modeling & query optimizations</li>
-        <li>🌐 <b>Live Portfolio:</b> <a href="https://www.rafirizqallahandila.xyz/"><b>www.rafirizqallahandila.xyz</b></a></li>
+        <li>💼 <b>Current:</b> Fullstack Developer @ <b>PT Swadharma Utama Prima</b></li>
+        <li>🏢 <b>Previous:</b> Frontend Developer @ <b>PT Millenio Amerta Data (AssistX Enterprise)</b></li>
+        <li>🎓 <b>Education:</b>
+          <ul>
+            <li><b>Universitas Pembangunan Nasional Veteran Jakarta</b> — Associate in Information Systems (GPA: <b>3.89 / 4.00</b>)</li>
+            <li><b>Universitas Terbuka</b> — Bachelor of Information Systems</li>
+          </ul>
+        </li>
+        <li>🏆 <b>Certifications:</b> Junior Web Programmer (<b>BNSP</b>) • Legacy Front-End (<b>freeCodeCamp</b>) • Node.js Intermediate (<b>HackerRank</b>)</li>
+        <li>🌐 <b>Portfolio:</b> <a href="https://www.rafirizqallahandila.xyz/"><b>www.rafirizqallahandila.xyz</b></a></li>
       </ul>
     </td>
-    <td width="36%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="290" alt="Animated Developer Working" />
+    <td width="38%" align="center" valign="middle">
+      <a href="https://www.rafirizqallahandila.xyz/">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="Cyberpunk Coding GIF" />
+      </a>
     </td>
   </tr>
 </table>
 
 <br/>
 
----
+<!-- ANIMATED LASER SCANNER DIVIDER -->
+<div align="center">
+  <img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
+</div>
 
-### 🛠️ Core Tech Stack & Tools
+<br/>
+
+### ⚡ Core Technologies & Arsenal (Based on Professional Experience)
 
 <div align="center">
 
   <table border="0">
     <tr>
       <td align="center" width="25%">
-        <b>⚡ Frontend Core</b><br/><br/>
-        <img src="https://cdn.simpleicons.org/react/61DAFB" width="34" height="34" alt="React" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/nextdotjs/white" width="34" height="34" alt="Next.js" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="34" height="34" alt="TypeScript" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="34" height="34" alt="Tailwind CSS" />
+        <b>⚡ Frontend & UI</b><br/><br/>
+        <img src="https://cdn.simpleicons.org/nextdotjs/white" width="36" height="36" alt="Next.js" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="Tailwind" />
       </td>
       <td align="center" width="25%">
-        <b>⚙️ Backend & API</b><br/><br/>
-        <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="34" height="34" alt="Node.js" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="34" height="34" alt="Laravel" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/express/white" width="34" height="34" alt="Express" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="34" height="34" alt="NestJS" />
+        <b>⚙️ Backend & Systems</b><br/><br/>
+        <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="36" height="36" alt="Laravel" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" height="36" alt="Node.js" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/go/00ADD8" width="36" height="36" alt="Go" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="36" height="36" alt="REST API" />
       </td>
       <td align="center" width="25%">
         <b>🗄️ Database & Cloud</b><br/><br/>
-        <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="34" height="34" alt="PostgreSQL" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/mysql/4479A1" width="34" height="34" alt="MySQL" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="34" height="34" alt="Firebase" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="34" height="34" alt="Supabase" />
+        <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="36" height="36" alt="Supabase" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/mysql/4479A1" width="36" height="36" alt="MySQL" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" height="36" alt="MongoDB" />
       </td>
       <td align="center" width="25%">
-        <b>📱 Mobile & DevOps</b><br/><br/>
-        <img src="https://cdn.simpleicons.org/flutter/02569B" width="34" height="34" alt="Flutter" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/docker/2496ED" width="34" height="34" alt="Docker" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/git/F05032" width="34" height="34" alt="Git" />&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/figma/F24E1E" width="34" height="34" alt="Figma" />
+        <b>🛠️ DevOps & UI Kits</b><br/><br/>
+        <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/figma/F24E1E" width="36" height="36" alt="Figma" />&nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/postman/FF6C37" width="36" height="36" alt="Postman" />
       </td>
     </tr>
   </table>
@@ -95,49 +121,53 @@
 
 <br/>
 
-
+<!-- ANIMATED LASER SCANNER DIVIDER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" height="4" alt="Animated Divider" />
+  <img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 </div>
 
 <br/>
 
-### 📂 Featured Engineering Projects
+### 📂 Real-World Enterprise Projects (From Verified Track Record)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 Smart Rescuer</h3>
-      <p>Crowdfunding and volunteer coordination web platform created to bridge resources and educational support to remote communities and disaster-impacted areas.</p>
+      <h3>🏢 Smart-Q IT Asset Management</h3>
+      <p><b>Client/Org:</b> PT Swadharma Utama Prima (Fullstack Developer)</p>
+      <p>Enterprise IT asset lifecycle and tracking system engineered with interactive dashboards, comprehensive inventory reporting, and relational state persistence.</p>
       <ul>
-        <li><b>Stack:</b> Vue.js • Node.js • Firebase • Tailwind CSS</li>
-        <li><b>Core:</b> Real-time donation ledgers, campaign tracker, and volunteer management.</li>
+        <li><b>Stack:</b> Next.js • Tailwind CSS • Supabase (PostgreSQL)</li>
+        <li><b>Key Impact:</b> Automated asset reconciliation and streamlined operational visibility.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📰 Nirmala News</h3>
-      <p>Ultra-responsive search exploration system querying Wikipedia REST interfaces, fine-tuned for high-speed browsing and readable typography.</p>
+      <h3>📊 Centralized Monitoring Dashboard</h3>
+      <p><b>Client/Org:</b> AssistX Enterprise / PT Millenio Amerta Data</p>
+      <p>Mission-critical real-time telemetry and monitoring suite developed for high-volume enterprise operations (including PSSI & BSI Sentrakas dashboards).</p>
       <ul>
-        <li><b>Stack:</b> React • Next.js • TypeScript • Tailwind CSS</li>
-        <li><b>Core:</b> Instant response caching, deep-linking, distraction-free reading mode.</li>
+        <li><b>Stack:</b> Next.js • React.js • Material UI • Chart.js • Go REST APIs</li>
+        <li><b>Key Impact:</b> Sub-second metrics refresh, internationalization (i18n), dynamic filtering.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📍 Journey Destination</h3>
-      <p>Android mobile application for traveler itineraries, bookmarking geographical points of interest with real-time cloud data synchronization.</p>
+      <h3>👥 MAGENTA (Magang Bertalenta BUMN)</h3>
+      <p><b>Client/Org:</b> AssistX Enterprise Project (Fullstack Developer)</p>
+      <p>National talent management & internship recruitment engine connecting participants with state-owned enterprise workflows.</p>
       <ul>
-        <li><b>Stack:</b> Java • Android Native • Firebase Realtime DB</li>
-        <li><b>Core:</b> Offline-first persistence, reactive media sync, location bookmarking.</li>
+        <li><b>Stack:</b> Laravel • PostgreSQL • RESTful APIs</li>
+        <li><b>Key Impact:</b> End-to-end applicant lifecycle, verification pipelines, and database optimization.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 Enterprise Internal Systems</h3>
-      <p>Confidential enterprise management dashboards and data pipelines engineered for <b>PT Swadharma Utama Prima</b> & <b>PT Nirmala Teknologi Indonesia</b>.</p>
+      <h3>🚔 POLRI Vehicle Accident Data System</h3>
+      <p><b>Client/Org:</b> PT Jasa Raharja (Fullstack Developer)</p>
+      <p>Government-facing vehicle incident & claims data management platform driving inter-agency digital transformation.</p>
       <ul>
-        <li><b>Stack:</b> Next.js • TypeScript • Laravel • PostgreSQL • Docker</li>
-        <li><b>Core:</b> Granular RBAC permissions, high-concurrency API integrations, data compliance.</li>
+        <li><b>Stack:</b> Laravel • MySQL • REST APIs</li>
+        <li><b>Key Impact:</b> Secure data ingestion, workflow validation, and rapid claims reporting.</li>
       </ul>
     </td>
   </tr>
@@ -145,41 +175,44 @@
 
 <br/>
 
+<!-- ANIMATED LASER SCANNER DIVIDER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" height="4" alt="Animated Divider" />
+  <img src="./assets/laser-divider.svg" width="100%" alt="Laser Divider" />
 </div>
 
 <br/>
 
-### 📊 Real-Time GitHub Analytics & Activity
+### 📈 Verified Activity & Productivity Metrics
 
 <div align="center">
-
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=apiiuw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=apiiuw&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=apiiuw&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <!-- Top Languages Donut Metric (Verified & Visual) -->
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=apiiuw&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="200" alt="Top Languages Donut Chart" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- Continuous Streak Counter (Clean & High Metric) -->
+  <img src="https://streak-stats.demolab.com?user=apiiuw&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Live Dynamic Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
 </div>
 
 <br/>
 
+<!-- ANIMATED FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,31&height=130&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,6&height=140&section=footer" width="100%" alt="Footer Wave" />
 
   <p>
-    ⚡ <b>Connect:</b> <a href="https://www.rafirizqallahandila.xyz/">rafirizqallahandila.xyz</a> •
-    <a href="https://linkedin.com/in/raffirz">LinkedIn</a> •
-    <a href="mailto:rafirizqallah@gmail.com">rafirizqallah@gmail.com</a>
+    ⚡ <b>Connect & Collaborate:</b> <a href="https://www.rafirizqallahandila.xyz/"><b>rafirizqallahandila.xyz</b></a> •
+    <a href="https://linkedin.com/in/raffiirz">LinkedIn</a> •
+    <a href="mailto:rafirizqallahandilla@gmail.com">rafirizqallahandilla@gmail.com</a>
   </p>
-  <sub>Engineered with passion & precision by <b>Rafi Rizqallah Andila</b></sub>
+  <sub>Crafted with engineering discipline & precision by <b>Rafi Rizqallah Andila</b></sub>
 </div>

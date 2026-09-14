@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="100%" height="130">
+  <defs>
+    <linearGradient id="spaceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C14" />
+      <stop offset="50%" stop-color="#0E1726" />
+      <stop offset="100%" stop-color="#06090F" />
+    </linearGradient>
+
+    <!-- Star Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- UFO Glow Filter -->
+    <filter id="ufoGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#00E5FF" flood-opacity="0.8"/>
+    </filter>
+
+    <linearGradient id="beamGrad" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <style>
+      .star-twinkle-1 { animation: twinkle 1.5s infinite alternate ease-in-out; }
+      .star-twinkle-2 { animation: twinkle 2.3s infinite alternate ease-in-out; }
+      .star-twinkle-3 { animation: twinkle 3.1s infinite alternate ease-in-out; }
+      @keyframes twinkle {
+        0% { opacity: 0.2; transform: scale(0.7); }
+        100% { opacity: 1; transform: scale(1.3); }
+      }
+
+      /* UFO Flying Across Animation */
+      .ufo-flight {
+        animation: flyAcross 12s infinite linear;
+      }
+      @keyframes flyAcross {
+        0% {
+          transform: translate(-120px, 45px) rotate(8deg);
+        }
+        25% {
+          transform: translate(250px, 20px) rotate(-6deg);
+        }
+        50% {
+          transform: translate(520px, 50px) rotate(10deg);
+        }
+        75% {
+          transform: translate(780px, 25px) rotate(-4deg);
+        }
+        100% {
+          transform: translate(1120px, 45px) rotate(8deg);
+        }
+      }
+
+      /* Satellite / Shooting Comet */
+      .comet-flight {
+        animation: cometFly 7s infinite ease-in-out;
+      }
+      @keyframes cometFly {
+        0% {
+          transform: translate(1050px, 85px);
+          opacity: 0;
+        }
+        10% { opacity: 1; }
+        85% { opacity: 1; }
+        100% {
+          transform: translate(-100px, 30px);
+          opacity: 0;
+        }
+      }
+
+      .beam-pulse {
+        animation: beamPulse 1.8s infinite alternate ease-in-out;
+      }
+      @keyframes beamPulse {
+        0% { opacity: 0.3; }
+        100% { opacity: 0.85; }
+      }
+    </style>
+  </defs>
+
+  <!-- Deep Cosmos Background -->
+  <rect width="1000" height="130" rx="14" fill="url(#spaceGrad)" stroke="#1F293D" stroke-width="1.5" />
+
+  <!-- Twinkling Stars Matrix -->
+  <g fill="#FFFFFF" filter="url(#glow)">
+    <circle cx="45" cy="25" r="1.5" class="star-twinkle-1" />
+    <circle cx="95" cy="90" r="1.8" class="star-twinkle-2" />
+    <circle cx="160" cy="35" r="1.2" class="star-twinkle-3" />
+    <circle cx="220" cy="100" r="2.2" fill="#00E5FF" class="star-twinkle-1" />
+    <circle cx="310" cy="20" r="1.5" class="star-twinkle-2" />
+    <circle cx="380" cy="85" r="1.3" class="star-twinkle-3" />
+    <circle cx="470" cy="30" r="2.0" fill="#A855F7" class="star-twinkle-1" />
+    <circle cx="560" cy="105" r="1.4" class="star-twinkle-2" />
+    <circle cx="640" cy="25" r="1.7" class="star-twinkle-3" />
+    <circle cx="730" cy="95" r="2.1" fill="#38BDF8" class="star-twinkle-1" />
+    <circle cx="820" cy="35" r="1.5" class="star-twinkle-2" />
+    <circle cx="910" cy="80" r="1.8" class="star-twinkle-3" />
+    <circle cx="965" cy="25" r="1.2" class="star-twinkle-1" />
+  </g>
+
+  <!-- Distant Nebulae Glows -->
+  <circle cx="280" cy="65" r="50" fill="#3B82F6" opacity="0.08" filter="url(#glow)" />
+  <circle cx="750" cy="65" r="60" fill="#A855F7" opacity="0.09" filter="url(#glow)" />
+
+  <!-- Shooting Comet / Satellite Flying Right to Left -->
+  <g class="comet-flight">
+    <ellipse cx="0" cy="0" rx="14" ry="1.5" fill="#38BDF8" opacity="0.9" transform="rotate(5)" />
+    <circle cx="12" cy="1" r="2" fill="#FFFFFF" />
+  </g>
+
+  <!-- High-Tech Flying UFO with Tractor Beam Flying Left to Right -->
+  <g class="ufo-flight" filter="url(#ufoGlow)">
+    <!-- Tractor Beam -->
+    <polygon points="-8,8 8,8 24,55 -24,55" fill="url(#beamGrad)" class="beam-pulse" />
+    
+    <!-- UFO Dome Cabin -->
+    <ellipse cx="0" cy="-3" rx="14" ry="11" fill="#00E5FF" opacity="0.95" />
+    <ellipse cx="-4" cy="-5" rx="5" ry="3" fill="#FFFFFF" opacity="0.8" />
+    <!-- Pilot Silhouette -->
+    <circle cx="0" cy="-3" r="3.5" fill="#0B132B" />
+
+    <!-- UFO Metallic Saucer Body -->
+    <ellipse cx="0" cy="4" rx="34" ry="9" fill="#1E293B" stroke="#00E5FF" stroke-width="1.8" />
+    
+    <!-- Underglow Lights Rotating -->
+    <circle cx="-22" cy="5" r="2.2" fill="#FF007F" />
+    <circle cx="-11" cy="6.5" r="2.2" fill="#00FF66" />
+    <circle cx="0" cy="7" r="2.6" fill="#FFEE00" />
+    <circle cx="11" cy="6.5" r="2.2" fill="#00FF66" />
+    <circle cx="22" cy="5" r="2.2" fill="#FF007F" />
+  </g>
+
+  <!-- Interactive Terminal Text Centered in the Cosmos -->
+  <text x="500" y="70" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" font-weight="600" fill="#94A3B8" text-anchor="middle" letter-spacing="3" opacity="0.85">
+    TRANSMITTING FROM SYSTEM: <tspan fill="#00E5FF" font-weight="800">PT SWADHARMA UTAMA PRIMA</tspan> // ORBITING CODEBASE
+  </text>
+</svg>
