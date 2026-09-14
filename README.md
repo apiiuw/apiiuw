@@ -195,14 +195,9 @@
 
 <br/>
 
-<!-- ANIMATED FOOTER WAVE -->
+<!-- ANIMATED FOOTER CONTACT SHOWCASE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,6&height=140&section=footer" width="100%" alt="Footer Wave" />
-
-  <p>
-    ⚡ <b>Connect & Collaborate:</b> <a href="https://www.rafirizqallahandila.xyz/"><b>rafirizqallahandila.xyz</b></a> •
-    <a href="https://linkedin.com/in/raffiirz">LinkedIn</a> •
-    <a href="mailto:rafirizqallahandilla@gmail.com">rafirizqallahandilla@gmail.com</a>
-  </p>
-  <sub>Crafted with engineering discipline & precision by <b>Rafi Rizqallah Andila</b></sub>
+  <a href="https://www.rafirizqallahandila.xyz/">
+    <img src="https://raw.githubusercontent.com/apiiuw/apiiuw/main/assets/footer-contact.svg?v=1" width="100%" alt="Connect and Collaborate Footer" />
+  </a>
 </div>

@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" height="240">
+  <defs>
+    <!-- Dark Cosmic Cyber Base Gradient -->
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="50%" stop-color="#0B132B" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+
+    <!-- Grid Texture -->
+    <pattern id="footerGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1E293B" stroke-width="0.7" opacity="0.4" />
+    </pattern>
+
+    <!-- Glowing Top Border Beam -->
+    <linearGradient id="topBorderBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="1" />
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="laserGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@600;700&amp;family=Outfit:wght@800;900&amp;display=swap');
+
+      /* Moving Scanner Ray on Top Edge */
+      .footer-laser {
+        animation: laserScanFooter 4s infinite linear;
+      }
+      @keyframes laserScanFooter {
+        0% { transform: translateX(-400px); }
+        100% { transform: translateX(1200px); }
+      }
+
+      /* Pulse Indicator */
+      .radar-dot {
+        animation: radarPulse 1.8s infinite ease-in-out;
+      }
+      @keyframes radarPulse {
+        0% { r: 4; opacity: 1; }
+        50% { r: 7; opacity: 0.3; }
+        100% { r: 4; opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect width="1200" height="240" rx="16" fill="url(#footerBg)" stroke="#1F293D" stroke-width="1.5" />
+  <rect width="1200" height="240" rx="16" fill="url(#footerGrid)" />
+
+  <!-- Top Animated Glowing Laser Beam -->
+  <line x1="30" y1="2" x2="1170" y2="2" stroke="#1E293B" stroke-width="2" />
+  <g class="footer-laser" filter="url(#laserGlow)">
+    <rect x="0" y="0" width="350" height="4" rx="2" fill="url(#topBorderBeam)" />
+  </g>
+
+  <!-- Title: GET IN TOUCH -->
+  <g transform="translate(600, 55)" text-anchor="middle">
+    <text x="0" y="0" font-family="'Outfit', sans-serif" font-size="28" font-weight="900" fill="#F8FAFC" letter-spacing="3">
+      LET'S CONNECT &amp; COLLABORATE
+    </text>
+    <text x="0" y="24" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#64748B" letter-spacing="2">
+      ALWAYS OPEN TO HIGH-IMPACT OPPORTUNITIES &amp; ENGINEERING DISCUSSIONS
+    </text>
+  </g>
+
+  <!-- Three Modern Cyber Cards: Website, LinkedIn, Email -->
+  <g transform="translate(600, 145)" text-anchor="middle">
+    
+    <!-- 1. Portfolio Card -->
+    <g transform="translate(-320, 0)">
+      <rect x="-140" y="-30" width="280" height="60" rx="12" fill="#0D1527" stroke="#1E293B" stroke-width="1.5" />
+      <circle cx="-105" cy="0" r="14" fill="#581C87" />
+      <!-- Globe Vector Icon -->
+      <path d="M -105 -6 A 6 6 0 1 0 -105 6 A 6 6 0 1 0 -105 -6 M -111 0 L -99 0 M -105 -6 C -108 -2 -108 2 -105 6 M -105 -6 C -102 -2 -102 2 -105 6" fill="none" stroke="#FFFFFF" stroke-width="1.2" />
+      <text x="-80" y="-6" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#94A3B8" text-anchor="start">PORTFOLIO</text>
+      <text x="-80" y="12" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#00E5FF" text-anchor="start">rafirizqallahandila.xyz</text>
+    </g>
+
+    <!-- 2. LinkedIn Card -->
+    <g transform="translate(0, 0)">
+      <rect x="-140" y="-30" width="280" height="60" rx="12" fill="#0D1527" stroke="#1E293B" stroke-width="1.5" />
+      <circle cx="-105" cy="0" r="14" fill="#0A66C2" />
+      <!-- 'in' text icon -->
+      <text x="-105" y="4.5" font-family="'Outfit', sans-serif" font-size="12" font-weight="900" fill="#FFFFFF" text-anchor="middle">in</text>
+      <text x="-80" y="-6" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#94A3B8" text-anchor="start">LINKEDIN</text>
+      <text x="-80" y="12" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#38BDF8" text-anchor="start">Rafi Rizqallah Andila</text>
+    </g>
+
+    <!-- 3. Email Card -->
+    <g transform="translate(320, 0)">
+      <rect x="-140" y="-30" width="280" height="60" rx="12" fill="#0D1527" stroke="#1E293B" stroke-width="1.5" />
+      <circle cx="-105" cy="0" r="14" fill="#1E293B" stroke="#00E5FF" stroke-width="1.2" />
+      <!-- Mail Icon -->
+      <path d="M -111 -4 L -99 -4 L -99 4 L -111 4 Z M -111 -4 L -105 0 L -99 -4" fill="none" stroke="#00E5FF" stroke-width="1.2" />
+      <text x="-80" y="-6" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#94A3B8" text-anchor="start">DIRECT EMAIL</text>
+      <text x="-80" y="12" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#E2E8F0" text-anchor="start">rafirizqallahandilla@...</text>
+    </g>
+
+  </g>
+
+  <!-- Bottom Terminal Tag -->
+  <g transform="translate(600, 215)" text-anchor="middle">
+    <circle cx="-170" cy="-3.5" r="4" fill="#00FF66" class="radar-dot" />
+    <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#64748B" letter-spacing="1.5">
+      BASED IN JAKARTA, ID // PT SWADHARMA UTAMA PRIMA
+    </text>
+  </g>
+</svg>
