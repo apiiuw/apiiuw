@@ -127,7 +127,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 Centralized Monitoring Dashboard</h3>
-      <p><b>Client/Org:</b> AssistX Enterprise Project (Frontend Developer)</p>
+      <p><b>Client/Org:</b> AssistX Enterprise (Frontend Developer)</p>
       <p>Mission-critical real-time telemetry and monitoring suite developed for high-volume enterprise operations (including PSSI & BSI Sentrakas dashboards).</p>
       <ul>
         <li><b>Stack:</b> Next.js • React.js • Material UI • Chart.js • Go REST APIs</li>
@@ -138,7 +138,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>👥 MAGENTA (Magang Bertalenta BUMN)</h3>
-      <p><b>Client/Org:</b> AssistX Enterprise Project (Frontend Developer Bilingual)</p>
+      <p><b>Client/Org:</b> AssistX Enterprise (Frontend Developer Bilingual)</p>
       <p>National talent management & internship recruitment engine connecting participants with state-owned enterprise workflows.</p>
       <ul>
         <li><b>Stack:</b> Laravel • PostgreSQL • RESTful APIs</li>
