@@ -5,9 +5,9 @@
     <img src="./assets/hero-header.svg" width="100%" alt="Rafi Rizqallah Andila - Hero Banner" />
   </p>
 
-  <!-- 3. ANIMATED TERMINAL TYPING SVG -->
+  <!-- 2. ANIMATED PROFESSIONAL DEVELOPER TYPING TAGLINE -->
   <a href="https://www.rafirizqallahandila.xyz/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&width=860&height=120&lines=%3E_System.init(%22Rafi+Rizqallah+Andila%22)+//+@apiiuw;%3E_Fullstack+Developer+at+PT+Swadharma+Utama+Prima;%3E_Crafting+Enterprise+Dashboards+%26+High-Performance+Web+Apps;%3E_Architecting+Modern+Frontends+with+Next.js,+TypeScript+%26+React" alt="Terminal Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Scalable+Web+Applications+%26+Interactive+UIs;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Laravel;Crafting+Modern+Enterprise+Systems+at+PT+Swadharma+Utama+Prima" alt="Typing Tagline" />
   </a>
 
   <br/>
